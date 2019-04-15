@@ -1,0 +1,2 @@
+运行的方法：
+使用eclipse将项目文件(WLGC16-2-XJQXZ-ZRnew)导入，之后根据src\com\zr的路径找到GameFrame.java文件，运行即可
